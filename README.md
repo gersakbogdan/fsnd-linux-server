@@ -2,7 +2,7 @@
 Udacity Full Stack Web Developer Nanodegree P5 Linux Server Configuration Project
 
 ### SSH
-IP: http://52.33.89.130/
+IP: 52.33.89.130
 PORT: 2200
 
 ### HTTP = P3 - Recipes catalog project
