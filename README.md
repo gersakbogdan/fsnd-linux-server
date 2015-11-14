@@ -20,6 +20,7 @@ In order to complete the requirements the following packages were installed:
   * unattended-upgrades
   * Fail2Ban
   * Glances, Nagios
+  * ntp
 
 ### System monitor
   * Nagios web interface: http://52.33.89.130/nagios/
