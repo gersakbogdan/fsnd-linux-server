@@ -23,8 +23,12 @@ In order to complete the requirements the following packages were installed:
   * ntp
 
 ### Automatic Updates
- * 'unattended-upgrades' package was configured to check for updates daily
+ * For package updates 'unattended-upgrades' package is used and it was configured to check for updates daily
 
+### Security Improvements
+ * To improve server security and to stop systematic login attempts by users or bots **fail2ban** package was installed and configure. fail2ban is creating rules that can automatically alter the iptables firewall configuration based on a predefined number of unsuccessful login attempts.
+ 
+ 
 ### System monitor
   * Nagios web interface: http://52.33.89.130/nagios/
 
