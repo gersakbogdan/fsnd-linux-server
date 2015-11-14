@@ -5,7 +5,7 @@ Udacity Full Stack Web Developer Nanodegree P5 Linux Server Configuration Projec
 IP: 52.33.89.130
 PORT: 2200
 
-### HTTP = P3 - Recipes catalog project
+### Recipes catalog project (Apache, Python, Flask, SQLAlchemy, WSGI)
 http://ec2-52-33-89-130.us-west-2.compute.amazonaws.com/
 
 ### Packages
