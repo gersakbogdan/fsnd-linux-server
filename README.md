@@ -22,6 +22,9 @@ In order to complete the requirements the following packages were installed:
   * Glances, Nagios
   * ntp
 
+### Automatic Updates
+ * 'unattended-upgrades' package was configured to check for updates daily
+
 ### System monitor
   * Nagios web interface: http://52.33.89.130/nagios/
 
